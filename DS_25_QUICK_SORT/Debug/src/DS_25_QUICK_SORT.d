@@ -1,0 +1,1 @@
+src/DS_25_QUICK_SORT.o: ../src/DS_25_QUICK_SORT.c

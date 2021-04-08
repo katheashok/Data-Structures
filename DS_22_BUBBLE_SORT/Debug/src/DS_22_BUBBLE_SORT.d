@@ -1,0 +1,1 @@
+src/DS_22_BUBBLE_SORT.o: ../src/DS_22_BUBBLE_SORT.c
